@@ -1,0 +1,1 @@
+script showing different permissions
